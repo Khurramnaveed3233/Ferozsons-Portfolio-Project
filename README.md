@@ -4,9 +4,12 @@
 ![feroz](https://github.com/user-attachments/assets/89867d1a-c44d-4fa3-8615-3c8183099847)
 
 Project Overview:
-In this project, I designed and implemented an SQL Server database for Ferozsons Pharmaceuticals, addressing key operational challenges in inventory management, order processing, and supplier coordination. Ferozsons, a leading pharmaceutical company, faced issues due to inefficiencies in their internal database system. These issues affected their ability to meet customer demands, fulfill orders, and efficiently manage restocking from suppliers.
+
+In this project, I designed and implemented an SQL Server database for Ferozsons Pharmaceuticals, addressing key operational challenges in inventory management, order processing, and supplier coordination. 
+Ferozsons, a leading pharmaceutical company, faced issues due to inefficiencies in their internal database system. These issues affected their ability to meet customer demands, fulfill orders, and efficiently manage restocking from suppliers.
 
 Key Challenges:
+
 Inventory Management: The existing system lacked real-time inventory updates, leading to frequent stockouts and unfulfilled orders, ultimately affecting customer satisfaction.
 Order Processing Delays: Outdated and incomplete order data caused delays in processing orders, shipping, and payments.
 Supplier and Restocking Inefficiencies: Outdated supplier information and lack of integration between product and supplier data led to restocking delays for critical products.
