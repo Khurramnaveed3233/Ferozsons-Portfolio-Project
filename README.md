@@ -1,7 +1,7 @@
 # Ferozsons Pharmaceuticals SQL Database Project
 
-[Ferozsons Pharmaceuticals Analysis.pdf](https://github.com/user-attachments/files/18505008/Ferozsons.Pharmaceuticals.Analysis.pdf)
 
+![feroz](https://github.com/user-attachments/assets/89867d1a-c44d-4fa3-8615-3c8183099847)
 
 Project Overview:
 In this project, I designed and implemented an SQL Server database for Ferozsons Pharmaceuticals, addressing key operational challenges in inventory management, order processing, and supplier coordination. Ferozsons, a leading pharmaceutical company, faced issues due to inefficiencies in their internal database system. These issues affected their ability to meet customer demands, fulfill orders, and efficiently manage restocking from suppliers.
