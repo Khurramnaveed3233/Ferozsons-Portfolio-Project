@@ -11,7 +11,7 @@ Key Challenges & Solutions
 
 1. Inaccurate Inventory Records
    
-    - **Problem: Outdated stock data caused stockouts and unfulfilled orders.**
+    - **Problem: Outdated stock data caused stockouts and unfulfilled orders.
   
 Solution: Implemented an SQL trigger to update inventory levels in real-time when new orders are placed.
 SQL Query: Automatically reduces stock quantity upon order confirmation.
